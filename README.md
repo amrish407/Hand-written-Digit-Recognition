@@ -1,1 +1,0 @@
-# Hand-written-Digit-Recognition
